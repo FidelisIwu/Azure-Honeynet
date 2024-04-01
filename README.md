@@ -126,3 +126,5 @@ In conclusion, I set up a compact, but effective honeynet using Microsoft Azure'
 
 The comparison of pre- and post-implementation metrics demonstrated a significant reduction in security events and incidents, which highlights the effectiveness of the enforced security controls.
 It's important to mention that if the network's resources were extensively engaged by regular users, it's plausible that a higher number of security events and alerts could have been produced within the 24-hour timeframe post-security control implementation.
+
+<p align="right"> Continue to <a href="https://github.com/FidelisIwu/Azure-Honeynet-resources">Azure Honeynet Resources</a></p>
